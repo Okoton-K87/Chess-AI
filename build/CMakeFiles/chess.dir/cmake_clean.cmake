@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/chess.dir/Application.cpp.o"
+  "CMakeFiles/chess.dir/Application.cpp.o.d"
+  "CMakeFiles/chess.dir/classes/Bit.cpp.o"
+  "CMakeFiles/chess.dir/classes/Bit.cpp.o.d"
+  "CMakeFiles/chess.dir/classes/BitHolder.cpp.o"
+  "CMakeFiles/chess.dir/classes/BitHolder.cpp.o.d"
+  "CMakeFiles/chess.dir/classes/Chess.cpp.o"
+  "CMakeFiles/chess.dir/classes/Chess.cpp.o.d"
+  "CMakeFiles/chess.dir/classes/ChessSquare.cpp.o"
+  "CMakeFiles/chess.dir/classes/ChessSquare.cpp.o.d"
+  "CMakeFiles/chess.dir/classes/Game.cpp.o"
+  "CMakeFiles/chess.dir/classes/Game.cpp.o.d"
+  "CMakeFiles/chess.dir/classes/Sprite.cpp.o"
+  "CMakeFiles/chess.dir/classes/Sprite.cpp.o.d"
+  "CMakeFiles/chess.dir/classes/Square.cpp.o"
+  "CMakeFiles/chess.dir/classes/Square.cpp.o.d"
+  "CMakeFiles/chess.dir/imgui/imgui.cpp.o"
+  "CMakeFiles/chess.dir/imgui/imgui.cpp.o.d"
+  "CMakeFiles/chess.dir/imgui/imgui_demo.cpp.o"
+  "CMakeFiles/chess.dir/imgui/imgui_demo.cpp.o.d"
+  "CMakeFiles/chess.dir/imgui/imgui_draw.cpp.o"
+  "CMakeFiles/chess.dir/imgui/imgui_draw.cpp.o.d"
+  "CMakeFiles/chess.dir/imgui/imgui_impl_glfw.cpp.o"
+  "CMakeFiles/chess.dir/imgui/imgui_impl_glfw.cpp.o.d"
+  "CMakeFiles/chess.dir/imgui/imgui_impl_opengl3.cpp.o"
+  "CMakeFiles/chess.dir/imgui/imgui_impl_opengl3.cpp.o.d"
+  "CMakeFiles/chess.dir/imgui/imgui_tables.cpp.o"
+  "CMakeFiles/chess.dir/imgui/imgui_tables.cpp.o.d"
+  "CMakeFiles/chess.dir/imgui/imgui_widgets.cpp.o"
+  "CMakeFiles/chess.dir/imgui/imgui_widgets.cpp.o.d"
+  "CMakeFiles/chess.dir/main_macos.cpp.o"
+  "CMakeFiles/chess.dir/main_macos.cpp.o.d"
+  "chess"
+  "chess.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/chess.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

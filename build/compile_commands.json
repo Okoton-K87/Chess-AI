@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/Application.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/Application.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/Application.cpp",
+  "output": "CMakeFiles/chess.dir/Application.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/imgui/imgui_demo.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_demo.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/chess.dir/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/imgui/imgui_draw.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_draw.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/chess.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/imgui/imgui_tables.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_tables.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/chess.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/imgui/imgui_widgets.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_widgets.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/chess.dir/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/imgui/imgui.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/imgui/imgui.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/imgui/imgui.cpp",
+  "output": "CMakeFiles/chess.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/imgui/imgui_impl_opengl3.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_impl_opengl3.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/chess.dir/imgui/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/classes/Bit.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/classes/Bit.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/classes/Bit.cpp",
+  "output": "CMakeFiles/chess.dir/classes/Bit.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/classes/BitHolder.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/classes/BitHolder.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/classes/BitHolder.cpp",
+  "output": "CMakeFiles/chess.dir/classes/BitHolder.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/classes/Game.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/classes/Game.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/classes/Game.cpp",
+  "output": "CMakeFiles/chess.dir/classes/Game.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/classes/Sprite.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/classes/Sprite.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/classes/Sprite.cpp",
+  "output": "CMakeFiles/chess.dir/classes/Sprite.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/classes/Square.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/classes/Square.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/classes/Square.cpp",
+  "output": "CMakeFiles/chess.dir/classes/Square.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/classes/Chess.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/classes/Chess.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/classes/Chess.cpp",
+  "output": "CMakeFiles/chess.dir/classes/Chess.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/classes/ChessSquare.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/classes/ChessSquare.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/classes/ChessSquare.cpp",
+  "output": "CMakeFiles/chess.dir/classes/ChessSquare.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/main_macos.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/main_macos.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/main_macos.cpp",
+  "output": "CMakeFiles/chess.dir/main_macos.cpp.o"
+},
+{
+  "directory": "/Users/yuyangluo/Desktop/Chess 4/build",
+  "command": "/usr/bin/clang++  -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/chess.dir/imgui/imgui_impl_glfw.cpp.o -c \"/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_impl_glfw.cpp\"",
+  "file": "/Users/yuyangluo/Desktop/Chess 4/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/chess.dir/imgui/imgui_impl_glfw.cpp.o"
+}
+]
